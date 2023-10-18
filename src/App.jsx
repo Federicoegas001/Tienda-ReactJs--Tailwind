@@ -83,14 +83,14 @@ function App() {
             {/* Card */}
             <Card
               img="comida.png"
-              description="Speacy s seafood nodles"
+              description="Speacys seafood nodles"
               price="2.29"
               inventory="20"
             />
             {/* Card */}
             <Card
               img="comida.png"
-              description="a"
+              description="Speacy seasoned seafood nodles"
               price="2.29"
               inventory="20"
             />
